@@ -1,3 +1,9 @@
+# Regression MVP
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mattostrander/regression-mvp)
+
+This project is a Minimal Viable Product (MVP) for an automated regression analysis pipeline.
+
 ## Getting Started
 
 1. Clone the repository:
