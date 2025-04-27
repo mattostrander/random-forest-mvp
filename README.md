@@ -11,17 +11,6 @@ This project is a Minimal Viable Product (MVP) for an automated regression analy
 - Evaluate model performance (RMSE, R²) on held-out test data
 - Generate a Markdown report summarizing results
 
-## Project Structure
-random-forest-mvp/
-├── data/               # Input data (excluded from version control)
-├── reports/            # Generated reports (excluded from version control)
-├── src/                # Source code modules
-├── run_mvp.py          # Main execution script
-├── requirements.txt    # Python dependencies
-├── .gitignore          # Files and folders to exclude from Git
-├── README.md           # Project documentation
-└── venv_regression_mvp/ # Python virtual environment (excluded)
-
 ## Getting Started
 
 1. Clone the repository:
