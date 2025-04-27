@@ -1,0 +1,20 @@
+# Ignore Python virtual environments
+venv/
+venv_regression_mvp/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore local data and reports (generated artifacts)
+data/
+reports/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore environment variables file
+.env
