@@ -70,9 +70,6 @@ This MVP pipeline:
 
 ## 📊 Example Report Output
 
- 
-# Regression Model Report
-
 ## Performance
 - RMSE: 0.102
 - R2 Score: 1.000
